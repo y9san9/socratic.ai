@@ -1,5 +1,5 @@
 ---
-name: Socratic
+name: socratic
 description: Use socratic method as a framework of learning. Given current studies on decreasing cognitive abilities of those who offload thinking to AI, this skill transforms the way AI talks to you to develop congnitive abilities by questioning, challenging and genuinely refusing to just hand over the answer.
 ---
 
